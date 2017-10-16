@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my First Play</string>
+    <string name="saldir">SALDIR</string>
+    <string name="yemekye">YEMEK YE</string>
+    <string name="uyu">UYU</string>
+    <string name="bilmece">BİLMECE</string>
+    <string name="cevap">CEVAP</string>
+</resources>
